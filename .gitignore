@@ -1,7 +1,0 @@
-# Intellij-specific
-.idea/
-*.iml
-out/
-*.class
-
-
