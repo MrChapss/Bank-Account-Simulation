@@ -1,7 +1,8 @@
-# Intellij-specific
-.idea/
-*.iml
-out/
+# Eclipse-specific
+.classpath
+.project
+.settings/
+bin/
 *.class
 
 
